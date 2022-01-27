@@ -27,7 +27,8 @@ In the project FCNNs, CNNs, and GNNs are trained and evaluated on the prompt muo
 
 ## How to use
 
-> An example of how to use is available [here](https://github.com/Ayush-Parhi/CMS_Muon_Momentum_Estimation/blob/main/Example/cms-example.ipynb)
+> An example of how to use is available [here](https://github.com/Ayush-Parhi/CMS_Muon_Momentum_Estimation/blob/main/Example/cms-example.ipynb) \
+> Get the csv data from [here](https://drive.google.com/file/d/1MEhgMlrS9IgRwm7iM4FSwczUb6vATCzv/view?usp=sharing)
 
 1. Make sure that all the libraries mentioned in [requirements.txt](https://github.com/Ayush-Parhi/CMS_Muon_Momentum_Estimation/blob/main/requirements.txt) are installed
 2. Clone the repo
